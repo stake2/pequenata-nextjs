@@ -1,0 +1,95 @@
+﻿A list of all my stories.
+
+Guide:
+[Name of the stories]:
+[Status]
+[Chapters]
+[Languages]
+[Genres]
+[Links] (Optional)
+[Soundtrack] (Optional)
+
+Total of stories: 9
+Finished: 1
+Writing: 2
+Rewriting: 1
+Reviewing and Rewriting: 2
+Finished and Published: 2
+Paused: 1
+
+Stories titles:
+The Life of Littletato
+SpaceLiving
+The Secret of the Crystals
+Desert Island
+The Story of the Nazzevo Brothers
+To Be Invincible
+My Little Pony - The Visit of Izaque
+My Little Pony - Rise to Equestria
+Lonely Stories - A Perfect World
+
+Stories:
+
+The Life of Littletato:
+[Reviewing and Rewriting]
+27 Chapters
+English and Brazilian Portuguese
+Slice of life, Chill, Romance, Casual, Potato, Fantasy, Happiness
+https://diario.netlify.app/story/littletato/
+Soundtrack: Folk Genre music or any Dubstep
+
+SpaceLiving:
+[Reviewing and Rewriting]
+12 Chapters
+English and Brazilian Portuguese
+Adventure, Slice of life, Sci-fi, SpaceShips, Teleport, Holograms, New_World
+https://diario.netlify.app/story/spaceliving/
+
+The Secret of the Crystals:
+[Writing]
+0 Chapters
+Only English
+Adventure, Fantasy, Slice of life, Sci-fi, Casual, Nature, Beaches, Survival, Universe, No Man's Sky
+Soundtrack: Water waves hitting the beach
+
+Desert Island:
+[Rewriting]
+3 Chapters
+English and Brazilian Portuguese
+Slice of life, Chill, Beaches, Nature, Survival
+Soundtrack: Water waves hitting the beach
+
+The Story of the Nazzevo Brothers:
+[Finished and Published]
+5 Chapters
+Only Brazilian Portuguese
+Slice of life, Adventure, Comedy
+https://diario.netlify.app/story/nazzevo/
+
+To Be Invincible:
+[Writing]
+1 Chapter
+English and Brazilian Portuguese
+Sci-fi, Adventure, Action, Futurist, Weapons, Laser Guns, Aliens
+Soundtrack: Albums: BATTLE ROCK 1 & 2, ALL GOOD THINGS, all from the Extreme Music artist
+
+My Little Pony:
+The Visit of Izaque:
+[Paused]
+1 Chapter
+English and Brazilian Portuguese
+Slice of life, Chill, Casual, My Little Pony, Izaque
+
+Rise to Equestria:
+[Finished]
+Unique Chapter
+English and Brazilian Portuguese
+Casual, Adventure, Drama, Happy, One-Shot, My Little Pony
+
+Lonely Stories:
+A Perfect World:
+[Finished and Published]
+Unique Chapter
+English and Brazilian Portuguese
+Vent writing, Outburst writing, Outburst, World, Dystopian, Science Fiction, Feelings, Drama, One-shot
+https://diario.netlify.app/lonely stories/

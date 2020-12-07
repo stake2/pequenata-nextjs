@@ -1,0 +1,5 @@
+HMB = "Human Multiverse Bubble" and "Human Multiverse Broadcast" (depends of the context)
+
+---
+
+HMB = "Bolha do Multiverso Humano" e "Transmissão do Multiverso Humano" (depende do contexto)

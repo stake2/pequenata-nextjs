@@ -1,0 +1,63 @@
+Lisa:
+Personagem Principal
+SpaceLiver/LonelyShipper
+
+Idade: 16
+Raça: Humano
+Vive em: LonelyShips, Rede de EspaçoNaves SpaceLiving
+
+Relações:
+Amiga de Anny
+Amiga de John
+Amiga de Funkysnipa Cat, Izaque, stake2
+Amiga de Marina
+
+--------
+
+Anny:
+Idade: [X]
+Raça: Humano
+Vive em: Planeta Terra
+
+Relações:
+Amiga de Lisa
+
+--------
+
+John (SpaceLiver, Amigo de Mark)
+
+--------
+
+Mark (SpaceLiver, Amigo de John)
+
+--------
+
+Funkysnipa Cat, Izaque, stake2 (Eu, escritor, amigo de Lisa, já visitou a nave de Marina)
+
+--------
+
+Ted (Namorado de Monika)
+
+--------
+
+Monika (Namorada de Ted)
+
+--------
+
+Wendy (Amiga de Izaque)
+
+--------
+
+Manuh (GDS)
+
+--------
+
+Drag (GDS)
+
+--------
+
+Kendra (GDS)
+
+--------
+
+Marina (Amiga de Izaque)

@@ -1,0 +1,139 @@
+Pequenata - Littletato:
+Personagem Principal
+
+Idade: 19
+Raça: Batata marrom (Versão Kids), Humano (Versão Adulta)
+Vive em: San Francisco
+
+Atributos da versão humana:
+Cabelos castanhos escuro
+Olhos castanhos
+
+Relações:
+Irmã de Carol
+Namorada de Júlia
+Amiga de Yam
+Colega de trabalho de Mia
+Amiga de Igor
+Amiga de Layla
+
+Mencionada pela primeira vez em: Capítulo 1 - O Começo, Parte 1
+
+---------
+
+Júlia:
+Idade: 18
+Raça: Batata rosa (Versão Kids), Humano (Versão Adulta)
+Vive em: San Francisco
+
+Atributos da versão humana:
+Cabelos loiros
+Olhos azuis
+
+Relações:
+Irmã de Patrícia
+Namorada de Pequenata - Littletato
+Amiga de Yam
+Amiga de Layla
+
+Mencionada pela primeira vez em: Capítulo 1 - O Começo, Parte 1
+
+---------
+
+Yam:
+Idade: 18
+Raça: Batata doce (Versão Kids), Humano (Versão Adulta)
+Vive em: San Francisco
+
+Atributos da versão humana:
+Cabelo preto
+Olhos castanhos escuros
+
+Relações:
+Tem uma irmã
+Amigo de Pequenata
+Amigo de Júlia
+
+Mencionado pela primeira vez em: Capítulo 1 - O Começo, Parte 1
+
+---------
+
+Patricia:
+Idade: 19
+Raça: Batata rosa escuro (Versão Kids), Humano (Versão Adulta)
+Vive em: New York
+
+Atributos da versão humana:
+Cabelos castanhos
+Olhos castanhos escuros
+
+Relações:
+Irmã de Júlia
+Tem um namorado
+
+Mencionada pela primeira vez em: Capítulo 3 - O Trabalho
+
+---------
+
+Carol:
+Idade: 19
+Raça: Batata marrom (Versão Kids), Humano (Versão Adulta)
+Vive em: [X]
+
+Atributos da versão humana:
+Cabelos loiros
+Olhos castanhos escuros
+
+Relações:
+Irmã de Pequenata
+
+Mencionada pela primeira vez em: Capítulo 13
+
+---------
+
+Mia:
+Idade: 20
+Raça: Cenoura (Versão Kids), Humano (Versão Adulta)
+Vive em: San Francisco
+
+Atributos da versão humana:
+Cabelos pretos
+Olhos castanhos escuros
+
+Relações:
+Colega de trabalho de Pequenata
+
+Mencionada pela primeira vez em: Capítulo 2 - O Começo, Parte 2
+
+---------
+
+Igor:
+Idade: 18
+Raça: Cebola (Versão Kids), Humano (Versão Adulta)
+Vive em: San Francisco
+
+Atributos da versão humana:
+Cabelos castanhos
+Olhos castanhos escuros
+
+Relações:
+Amigo de Pequenata
+
+Mencionado pela primeira vez em: Capítulo 20
+
+---------
+
+Layla:
+Idade: 19
+Raça: Chocolate Branco (Versão Kids), Humano (Versão Adulta)
+Vive em: Texas
+
+Atributos da versão humana:
+Cabelos grisalhos
+Olhos castanhos escuros
+
+Relações:
+Amiga de Pequenata
+Amiga de Júlia
+
+Mencionada pela primeira vez em: Capítulo 21

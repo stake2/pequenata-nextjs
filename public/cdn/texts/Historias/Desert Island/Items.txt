@@ -1,0 +1,26 @@
+Itens feitos:
+Faca de pedra
+Machado de pedra
+Cesta feita de fibras cana de soja (lugar para guardar comida)
+Copo de cerâmica que pode ser usado para ferver água e beber
+
+[X] Casa:
+Casa á direita da concha de folhas, feita com troncos e toras de madeira, pedras e lama como parede, telhas de lama como telhado, e um sistema de aquecimento de piso subterrâneo, aquecendo o chão e fazendo um bom lugar para dormir, Cesta, Faca de Pedra, Machado e o Copo de Água feito de Lama podem ser guardados na casa.
+
+[X] Fogo:
+Pegar os dois gravetos e folhas secas e botar as folhas secas no chão, raspar um graveto no outro para gerar fumaça, após fumaça ser gerada, ficar soprando ela para gerar fogo, após o fogo surgir, comece a colocar gravetos e coisas para aumentar o fogo.
+
+[X] Água:
+Pegue água de fontes de água corrente usando o copo de cerâmica, deixe uma pedra esquentar perto do fogo e após um tempo, pegue ela com dois gravetos e jogue dentro do copo cheio de água, espere a água ferver e depois disso, espere esfriar, a água estará pronta para beber.
+
+[X] Comida:
+Cesta com bananas e maçãs, pegar frutas das árvores da ilhas, fazer plantação de vegetais, fazer armadilha para peixes.
+
+[ ] Barco:
+(Fazer barco)
+
+[X] Arma:
+Uma lança com ponta de madeira afiada e um lançador de lança.
+
+[X] Concha:
+Concha de folhas de árvore convenientes, provisório, protege da chuva, do sol e do calor.

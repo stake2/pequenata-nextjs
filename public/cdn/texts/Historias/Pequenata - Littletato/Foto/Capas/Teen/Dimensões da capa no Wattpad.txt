@@ -1,0 +1,2 @@
+Largura: 750
+Altura: 1150

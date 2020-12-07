@@ -1,0 +1,95 @@
+﻿Eu sou Izaque Sanvezzo (stake2) e estas são as minhas histórias.
+
+Guia:
+[Nome da história]:
+[Status]
+[Capítulos]
+[Idiomas]
+[Gêneros]
+[Links] (Opcional)
+[Trilha Sonora] (Opcional)
+
+Total de histórias: 9
+Terminada(s): 1
+Escrevendo: 2
+Reescrevendo: 1
+Revisando e Reescrevendo: 2
+Terminada(s) e Publicada(s): 2
+Pausada(s): 1
+
+Títulos das histórias:
+A Vida de Pequenata
+SpaceLiving
+O Segredo dos Cristais
+Ilha Deserta
+A História dos Irmãos Nazzevo
+To Be Invincible
+My Little Pony - A Visita de Izaque
+My Little Pony - Ascensão á Equestria
+Histórias Solitárias - Um Mundo Perfeito
+
+Histórias:
+
+A Vida de Pequenata:
+[Revisando e Reescrevendo]
+29 Capítulos
+Inglês e Português Brasileiro
+Dia a dia, Calma, Romance, Casual, Batata, Fantasia, Felicidade
+https://diario.netlify.app/historias/pequenata/
+Trilha sonora: Música do género Folk ou qualquer Dubstep
+
+SpaceLiving:
+[Revisando e Reescrevendo]
+14 Capítulos
+Inglês e Português Brasileiro
+Aventura, Dia a dia, Ficção Científica, Naves Espaciais, Teleportes, Hologramas, New_World
+https://diario.netlify.app/historias/spaceliving/
+
+O Segredo dos Cristais:
+[Escrevendo]
+0 Capítulos
+Somente Inglês
+Aventura, Fantasia, Dia a dia, Ficção Científica, Casual, Natureza, Praias, Sobrevivência, Universo, No Man's Sky
+Trilha sonora: Ondas de água a baterem na praia
+
+Ilha Deserta:
+[Reescrevendo]
+3 Capítulos
+Inglês e Português Brasileiro
+Dia a dia, Calma, Praias, Natureza, Sobrevivência
+Trilha sonora: Ondas de água a baterem na praia
+
+A História dos Irmãos Nazzevo:
+[Terminada e Publicada]
+5 Capítulos
+Somente Português Brasileiro
+Dia a dia, Aventura, Comédia
+https://diario.netlify.app/historia/nazzevo/
+
+To Be Invincible:
+[Escrevendo]
+1 Capítulo
+Inglês e Português Brasileiro
+Ficção Científica, Aventura, Ação, Futurista, Armas, Armas Laser, Alienígenas
+Trilha sonora: Álbuns: BATTLE ROCK 1 & 2, ALL GOOD THINGS, todos do artista Extreme Music
+
+My Little Pony:
+A Visita de Izaque:
+[Pausada]
+1 Capítulo
+Inglês e Português Brasileiro
+Dia a dia, Chill, Casual, My Little Pony, Izaque
+
+Ascensão á Equestria:
+[Terminada]
+Capítulo Único
+Inglês e Português Brasileiro
+Casual, Aventura, Drama, Feliz, One-Shot, My Little Pony
+
+Histórias Solitárias:
+Um Mundo Perfeito:
+[Terminada e Publicada]
+Capítulo Único
+Inglês e Português Brasileiro
+Escrita de desabafo, Desabafo, Mundo, Distópica, Ficção científica, Sentimentos, Drama, One-shot
+https://diario.netlify.app/lonely stories/
