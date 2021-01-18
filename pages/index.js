@@ -1,15 +1,10 @@
 import Image from 'next/image';
 import Link from 'next/link';
-
-function Define_Language() {
-	var current_website_url = window.location;
-	var current_website_url_string = '"' + current_website_url + '"';
-
-	alert(current_website_url);
-}
+import Document from 'next/document';
+import Html from 'next/document';
+import Head from 'next/head';
 
 function Pequenata(props) {
-	Define_Language()
 	var chapter_number;
 	var chapter_titles_file;
 	var cdn_folder, cdn_texts_folder, stories_folder, pequenata_story_folder;
@@ -33,11 +28,20 @@ function Pequenata(props) {
 	var chapter_number_text = "Chapter number is";
 
 	return (
-		<div id="main_div">
-			<div>
-			{chapter_number_text}: <span id="chapter_number_text">[placeholder]</span>
+      <Html>
+        <Head>
+			<script type="text/javascript" src="/static/Redirect.js"></script>
+			<script>Define_Language();</script>
+		</Head>
+        <body>
+			<div id="main_div">
+				<div>
+				{chapter_number_text}: <span id="chapter_number_text">[placeholder]</span>
+				</div>
 			</div>
-		</div>
+        </body>
+      </Html>
+
 	)
 }
 
