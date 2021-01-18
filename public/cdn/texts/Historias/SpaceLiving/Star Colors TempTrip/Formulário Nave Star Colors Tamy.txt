@@ -1,5 +1,0 @@
-Formulário de Pedido de EspaçoNave:
-Cor das paredes da nave (opcional): Rosa
-Animal de Estimação (opcional): Ratinha Micaela
-Instrumento (opcional): Flauta
-Algo que não seja o que já tem na nave (opcional): Banheira de cor azul bebe
