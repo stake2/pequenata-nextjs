@@ -5,5 +5,5 @@ function tempo() {
 		date: dynamic_date.toGMTString()
 	});
 }
-///aa
+
 export default tempo;
